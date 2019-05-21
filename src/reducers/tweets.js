@@ -6,6 +6,6 @@ export const tweets = (state = {}, action) => {
 			return { ...state, ...action.tweets };
 
 		default:
-			state;
+			return state;
 	}
 };
