@@ -1,4 +1,4 @@
-import { RECEIVE_USERS } from '../actions/tweets';
+import { RECEIVE_USERS } from '../actions/users';
 
 export const users = (state = {}, action) => {
 	switch (action.type) {
