@@ -1,20 +1,12 @@
-# Chirper Project
-
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
-
-Most of the commits in this repository correspond to videos in the program.
+# Twitter Clone with React
+I created this project while i was watching video of [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
 
 ## Project Setup
-
-* clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
 * install the dependencies - `npm install`
+* start to project - `npm start`
 
-## Contributing
+## Screen Shots
+| Main Page  | Tweet Page | New Tweet |
+| ------------- | ------------- | ------------- |
+| ![Main Page](https://github.com/ahmetsametoglu/react-twitter-clone-udacity/blob/master/doc-image/main_page.jpg)  | ![Tweet Page](https://github.com/ahmetsametoglu/react-twitter-clone-udacity/blob/master/doc-image/tweet_page.jpg)  | ![New Tweet](https://github.com/ahmetsametoglu/react-twitter-clone-udacity/blob/master/doc-image/new_tweet.jpg)  |
 
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
-
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
-
-## License
-
-MIT
